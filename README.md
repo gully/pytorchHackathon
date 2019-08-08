@@ -22,3 +22,5 @@ PyTorch Summer Hackathon for astronomical data analysis
 - [Google Astro Net (tensorflow)](https://github.com/google-research/exoplanet-ml)
 - [ExoNet Data and ancillary files](https://github.com/hposborn/exonet_tess)
 - [ExoNet GitLab Code](https://gitlab.com/frontierdevelopmentlab/exoplanets)
+- [Exonet Paper1](https://arxiv.org/abs/1810.13434)
+- [Exonet Paper2](https://arxiv.org/abs/1902.08544)
