@@ -24,3 +24,4 @@ PyTorch Summer Hackathon for astronomical data analysis
 - [ExoNet GitLab Code](https://gitlab.com/frontierdevelopmentlab/exoplanets)
 - [Exonet Paper1](https://arxiv.org/abs/1810.13434)
 - [Exonet Paper2](https://arxiv.org/abs/1902.08544)
+- [Download all TESS Sector 12 TCEs](http://archive.stsci.edu/tess/bulk_downloads/bulk_downloads_tce.html)
