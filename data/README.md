@@ -5,6 +5,6 @@ This directory contains the additional data for updated stellar information that
 
 - `Berger2018_tbl1.txt` comes from *Revised Radii of Kepler Stars and Planets Using Gaia Data Release 2* https://arxiv.org/abs/1805.00231
 - `Dattilo2019tbl3.txt` comes from *Identifying Exoplanets with Deep Learning II: Two New Super-Earths Uncovered by a Neural Network in K2 Data* https://arxiv.org/abs/1903.10507
-- Osborn2019_predictions.csv  is the `Ranked_TCE_Predictions_Real_Data_sm.csv` from the ArXiV source of Osborn et al. 2019 https://arxiv.org/abs/1902.08544
+- Osborn2019_predictions.csv lists exoplanet candidates for ther *TESS* mission, from the ArXiV source file `Ranked_TCE_Predictions_Real_Data_sm.csv` of Rapid Classification of TESS Planet Candidates with Convolutional Neural Networks https://arxiv.org/abs/1902.08544
 
 The test train val directories contain the revised stellar info data, match to the format of the preprocessed numpy binaries from [Frontier Development Lab Dropbox](https://www.dropbox.com/sh/sxj7r30thd66nij/AACptMysLyaMhXe817e4z7Sya?dl=0).
